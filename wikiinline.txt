@@ -1,0 +1,599 @@
+## This list currently contains 412 flairs.
+
+### D1
+
+## American East
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Albany Great Danes|\[Albany](#f/albany)|[Albany](#f/albany)|
+|Binghamton Bearcats|\[Binghamton](#f/binghamton)|[Binghamton](#f/binghamton)|
+|Hartford Hawks|\[Hartford](#f/hartford)|[Hartford](#f/hartford)|
+|Maine Black Bears|\[Maine](#f/maine)|[Maine](#f/maine)|
+|UMBC Retrievers|\[UMBC](#f/umbc)|[UMBC](#f/umbc)|
+|New Hampshire Wildcats|\[New Hampshire](#f/newhampshire)|[New Hampshire](#f/newhampshire)|
+|UMass Lowell River Hawks|\[UMass ](#f/umass)|[UMass ](#f/umass)|
+|Stony Brook Seawolves|\[Stony Brook](#f/stonybrook)|[Stony Brook](#f/stonybrook)|
+|Vermont Catamounts|\[Vermont](#f/vermont)|[Vermont](#f/vermont)|
+
+## American
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Cincinnati Bearcats|\[Cincinnati](#f/cincinnati)|[Cincinnati](#f/cincinnati)|
+|Connecticut Huskies|\[Connecticut](#f/connecticut)|[Connecticut](#f/connecticut)|
+|East Carolina Pirates|\[East Carolina](#f/eastcarolina)|[East Carolina](#f/eastcarolina)|
+|Houston Cougars|\[Houston](#f/houston)|[Houston](#f/houston)|
+|Memphis Tigers|\[Memphis](#f/memphis)|[Memphis](#f/memphis)|
+|SMU Mustangs|\[SMU](#f/smu)|[SMU](#f/smu)|
+|South Florida Bulls|\[South Florida](#f/southflorida)|[South Florida](#f/southflorida)|
+|Temple Owls|\[Temple](#f/temple)|[Temple](#f/temple)|
+|Tulane Green Wave|\[Tulane](#f/tulane)|[Tulane](#f/tulane)|
+|Tulsa Golden Hurricane|\[Tulsa](#f/tulsa)|[Tulsa](#f/tulsa)|
+|UCF Knights|\[UCF](#f/ucf)|[UCF](#f/ucf)|
+
+## ACC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Boston College Eagles|\[Boston College](#f/bostoncollege)|[Boston College](#f/bostoncollege)|
+|Clemson Tigers|\[Clemson](#f/clemson)|[Clemson](#f/clemson)|
+|Duke Blue Devils|\[Duke](#f/duke)|[Duke](#f/duke)|
+|Florida State Seminoles|\[Florida State](#f/floridastate)|[Florida State](#f/floridastate)|
+|Georgia Tech Yellow Jackets|\[Georgia Tech](#f/georgiatech)|[Georgia Tech](#f/georgiatech)|
+|Louisville Cardinals|\[Louisville](#f/louisville)|[Louisville](#f/louisville)|
+|Miami Hurricanes|\[Miami](#f/miamifl)|[Miami](#f/miamifl)|
+|North Carolina Tar Heels|\[North Carolina](#f/northcarolina)|[North Carolina](#f/northcarolina)|
+|North Carolina State Wolfpack|\[North Carolina State](#f/northcarolinastate)|[North Carolina State](#f/northcarolinastate)|
+|Notre Dame Fighting Irish|\[Notre Dame](#f/notredame)|[Notre Dame](#f/notredame)|
+|Pittsburgh Panthers|\[Pittsburgh](#f/pittsburgh)|[Pittsburgh](#f/pittsburgh)|
+|Syracuse Orange|\[Syracuse](#f/syracuse)|[Syracuse](#f/syracuse)|
+|Virginia Cavaliers|\[Virginia](#f/virginia)|[Virginia](#f/virginia)|
+|Virginia Tech Hokies|\[Virginia Tech](#f/virginiatech)|[Virginia Tech](#f/virginiatech)|
+|Wake Forest Demon Deacons|\[Wake Forest](#f/wakeforest)|[Wake Forest](#f/wakeforest)|
+
+## Atlantic Sun
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Florida Gulf Coast Eagles|\[Florida Gulf Coast](#f/floridagulfcoast)|[Florida Gulf Coast](#f/floridagulfcoast)|
+|Jacksonville Dolphins|\[Jacksonville](#f/jacksonville)|[Jacksonville](#f/jacksonville)|
+|Kennesaw State Owls|\[Kennesaw](#f/kennesaw)|[Kennesaw](#f/kennesaw)|
+|Lipscomb Bisons|\[Lipscomb](#f/lipscomb)|[Lipscomb](#f/lipscomb)|
+|NJIT Highlanders|\[NJIT](#f/njit)|[NJIT](#f/njit)|
+|North Florida Ospreys|\[North Florida](#f/northflorida)|[North Florida](#f/northflorida)|
+|USC Upstate Spartans|\[USC Upstate](#f/uscupstate)|[USC Upstate](#f/uscupstate)|
+|Stetson Hatters|\[Stetson](#f/stetson)|[Stetson](#f/stetson)|
+
+## A-10
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Davidson Wildcats|\[Davidson](#f/davidson)|[Davidson](#f/davidson)|
+|Dayton Flyers|\[Dayton](#f/dayton)|[Dayton](#f/dayton)|
+|Duquesne Dukes|\[Duquesne](#f/duquesne)|[Duquesne](#f/duquesne)|
+|Fordham Rams|\[Fordham](#f/fordham)|[Fordham](#f/fordham)|
+|George Mason Patriots|\[George Mason](#f/georgemason)|[George Mason](#f/georgemason)|
+|George Washington Colonials|\[George Washington](#f/georgewashington)|[George Washington](#f/georgewashington)|
+|La Salle Explorers|\[La Salle](#f/lasalle)|[La Salle](#f/lasalle)|
+|UMass Minutemen|\[UMass ](#f/umass)|[UMass ](#f/umass)|
+|Rhode Island Rams|\[Rhode Island](#f/rhodeisland)|[Rhode Island](#f/rhodeisland)|
+|Richmond Spiders|\[Richmond](#f/richmond)|[Richmond](#f/richmond)|
+|St. Bonaventure Bonnies|\[St. Bonaventure](#f/stbonaventure)|[St. Bonaventure](#f/stbonaventure)|
+|St. Joseph's Hawks|\[St. Joseph's](#f/stjosephspa)|[St. Joseph's](#f/stjosephspa)|
+|St. Louis Billikens|\[St. Louis](#f/stlouis)|[St. Louis](#f/stlouis)|
+|VCU Rams|\[VCU](#f/vcu)|[VCU](#f/vcu)|
+
+## Big East
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Butler Bulldogs|\[Butler](#f/butler)|[Butler](#f/butler)|
+|Creighton Bluejays|\[Creighton](#f/creighton)|[Creighton](#f/creighton)|
+|DePaul Blue Demons|\[DePaul](#f/depaul)|[DePaul](#f/depaul)|
+|Georgetown Hoyas|\[Georgetown](#f/georgetown)|[Georgetown](#f/georgetown)|
+|Marquette Golden Eagles|\[Marquette](#f/marquette)|[Marquette](#f/marquette)|
+|Providence Friars|\[Providence](#f/providence)|[Providence](#f/providence)|
+|St. John's Red Storm|\[St. John's](#f/stjohnsny)|[St. John's](#f/stjohnsny)|
+|Seton Hall Pirates|\[Seton Hall](#f/setonhall)|[Seton Hall](#f/setonhall)|
+|Villanova Wildcats|\[Villanova](#f/villanova)|[Villanova](#f/villanova)|
+|Xavier Musketeers|\[Xavier](#f/xavier)|[Xavier](#f/xavier)|
+
+## Big Sky
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Eastern Washington Eagles|\[Eastern Washington](#f/easternwashington)|[Eastern Washington](#f/easternwashington)|
+|Idaho Vandals|\[Idaho](#f/idaho)|[Idaho](#f/idaho)|
+|Idaho State Bengals|\[Idaho State](#f/idahostate)|[Idaho State](#f/idahostate)|
+|Montana Grizzlies|\[Montana](#f/montana)|[Montana](#f/montana)|
+|Montana State Bobcats|\[Montana State](#f/montanastate)|[Montana State](#f/montanastate)|
+|North Dakota Fighting Hawks|\[North Dakota](#f/northdakota)|[North Dakota](#f/northdakota)|
+|Northern Arizona Lumberjacks|\[Northern Arizona](#f/northernarizona)|[Northern Arizona](#f/northernarizona)|
+|Northern Colorado Bears|\[Northern Colorado](#f/northerncolorado)|[Northern Colorado](#f/northerncolorado)|
+|Portland State Vikings|\[Portland State](#f/portlandstate)|[Portland State](#f/portlandstate)|
+|Sacramento State Hornets|\[Sacramento State](#f/sacramentostate)|[Sacramento State](#f/sacramentostate)|
+|Southern Utah Thunderbirds|\[Southern Utah](#f/southernutah)|[Southern Utah](#f/southernutah)|
+|Weber State Wildcats|\[Weber State](#f/weberstate)|[Weber State](#f/weberstate)|
+
+## Big South
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Campbell Fighting Camels|\[Campbell](#f/campbell)|[Campbell](#f/campbell)|
+|Charleston Southern Buccaneers|\[Charleston Southern](#f/charlestonsouthern)|[Charleston Southern](#f/charlestonsouthern)|
+|Coastal Carolina Chanticleers|\[Coastal Carolina](#f/coastalcarolina)|[Coastal Carolina](#f/coastalcarolina)|
+|Gardner-Webb Runnin' Bulldogs|\[Gardner-Webb](#f/gardnerwebb)|[Gardner-Webb](#f/gardnerwebb)|
+|High Point Panthers|\[High Point](#f/highpoint)|[High Point](#f/highpoint)|
+|Liberty Flames|\[Liberty](#f/liberty)|[Liberty](#f/liberty)|
+|Longwood Lancers|\[Longwood](#f/longwood)|[Longwood](#f/longwood)|
+|Presbyterian Blue Hose|\[Presbyterian](#f/presbyterian)|[Presbyterian](#f/presbyterian)|
+|Radford Highlanders|\[Radford](#f/radford)|[Radford](#f/radford)|
+|UNC Asheville Bulldogs|\[UNC Asheville](#f/uncasheville)|[UNC Asheville](#f/uncasheville)|
+|Winthrop Eagles|\[Winthrop](#f/winthrop)|[Winthrop](#f/winthrop)|
+
+## Big Ten
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Illinois Fighting Illini|\[Illinois](#f/illinois)|[Illinois](#f/illinois)|
+|Indiana Hoosiers|\[Indiana](#f/indiana)|[Indiana](#f/indiana)|
+|Iowa Hawkeyes|\[Iowa](#f/iowa)|[Iowa](#f/iowa)|
+|Maryland Terrapins|\[Maryland](#f/maryland)|[Maryland](#f/maryland)|
+|Michigan Wolverines|\[Michigan](#f/michigan)|[Michigan](#f/michigan)|
+|Michigan State Spartans|\[Michigan State](#f/michiganstate)|[Michigan State](#f/michiganstate)|
+|Minnesota Golden Gophers|\[Minnesota](#f/minnesota)|[Minnesota](#f/minnesota)|
+|Nebraska Cornhuskers|\[Nebraska](#f/nebraska)|[Nebraska](#f/nebraska)|
+|Northwestern Wildcats|\[Northwestern](#f/northwestern)|[Northwestern](#f/northwestern)|
+|Ohio State Buckeyes|\[Ohio State](#f/ohiostate)|[Ohio State](#f/ohiostate)|
+|Penn State Nittany Lions|\[Penn State](#f/pennstate)|[Penn State](#f/pennstate)|
+|Purdue Boilermakers|\[Purdue](#f/purdue)|[Purdue](#f/purdue)|
+|Rutgers Scarlet Knights|\[Rutgers](#f/rutgers)|[Rutgers](#f/rutgers)|
+|Wisconsin Badgers|\[Wisconsin](#f/wisconsin)|[Wisconsin](#f/wisconsin)|
+
+## Big 12
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Baylor Bears|\[Baylor](#f/baylor)|[Baylor](#f/baylor)|
+|Iowa State Cyclones|\[Iowa State](#f/iowastate)|[Iowa State](#f/iowastate)|
+|Kansas Jayhawks|\[Kansas](#f/kansas)|[Kansas](#f/kansas)|
+|Kansas State Wildcats|\[Kansas State](#f/kansasstate)|[Kansas State](#f/kansasstate)|
+|Oklahoma Sooners|\[Oklahoma](#f/oklahoma)|[Oklahoma](#f/oklahoma)|
+|Oklahoma State Cowboys|\[Oklahoma State](#f/oklahomastate)|[Oklahoma State](#f/oklahomastate)|
+|TCU Horned Frogs|\[TCU](#f/tcu)|[TCU](#f/tcu)|
+|Texas Longhorns|\[Texas](#f/texas)|[Texas](#f/texas)|
+|Texas Tech Red Raiders|\[Texas Tech](#f/texastech)|[Texas Tech](#f/texastech)|
+|West Virginia Mountaineers|\[West Virginia](#f/westvirginia)|[West Virginia](#f/westvirginia)|
+
+## Big West
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Cal Poly Mustangs|\[Cal Poly](#f/calpoly)|[Cal Poly](#f/calpoly)|
+|Cal State Fullerton Titans|\[Cal State Fullerton](#f/calstatefullerton)|[Cal State Fullerton](#f/calstatefullerton)|
+|Cal State Northridge Matadors|\[Cal State Northridge](#f/calstatenorthridge)|[Cal State Northridge](#f/calstatenorthridge)|
+|Hawai'i Rainbow Warriors|\[Hawai'i](#f/hawaii)|[Hawai'i](#f/hawaii)|
+|Long Beach State 49ers|\[Long Beach State](#f/longbeachstate)|[Long Beach State](#f/longbeachstate)|
+|UC Davis Aggies|\[UC Davis](#f/ucdavis)|[UC Davis](#f/ucdavis)|
+|UC Irvine Anteaters|\[UC Irvine](#f/ucirvine)|[UC Irvine](#f/ucirvine)|
+|UC Riverside Highlanders|\[UC Riverside](#f/ucriverside)|[UC Riverside](#f/ucriverside)|
+|UC Santa Barbara Gauchos|\[UC Santa Barbara](#f/ucsb)|[UC Santa Barbara](#f/ucsb)|
+
+## CAA
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|College of Charleston Cougars|\[Charleston](#f/charleston)|[Charleston](#f/charleston)|
+|Delaware Fightin' Blue Hens|\[Delaware](#f/delaware)|[Delaware](#f/delaware)|
+|Drexel Dragons|\[Drexel](#f/drexel)|[Drexel](#f/drexel)|
+|Elon Phoenix|\[Elon](#f/elon)|[Elon](#f/elon)|
+|Hofstra Pride|\[Hofstra](#f/hofstra)|[Hofstra](#f/hofstra)|
+|James Madison Dukes|\[James Madison](#f/jamesmadison)|[James Madison](#f/jamesmadison)|
+|Northeastern Huskies|\[Northeastern](#f/northeastern)|[Northeastern](#f/northeastern)|
+|Towson Tigers|\[Towson](#f/towson)|[Towson](#f/towson)|
+|UNC Wilmington Seahawks|\[UNC Wilmington](#f/uncwilmington)|[UNC Wilmington](#f/uncwilmington)|
+|William & Mary Tribe|\[William & Mary](#f/williammary)|[William & Mary](#f/williammary)|
+
+## Conference USA
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Charlotte 49ers|\[Charlotte](#f/charlotte)|[Charlotte](#f/charlotte)|
+|Florida Atlantic Owls|\[Florida Atlantic](#f/floridaatlantic)|[Florida Atlantic](#f/floridaatlantic)|
+|Florida International Golden Panthers|\[Florida International](#f/floridainternational)|[Florida International](#f/floridainternational)|
+|Louisiana Tech Bulldogs|\[Louisiana Tech](#f/louisianatech)|[Louisiana Tech](#f/louisianatech)|
+|Marshall Thundering Herd|\[Marshall](#f/marshall)|[Marshall](#f/marshall)|
+|Middle Tennessee Blue Raiders|\[Middle Tennessee](#f/middletennessee)|[Middle Tennessee](#f/middletennessee)|
+|North Texas Mean Green|\[North Texas](#f/northtexas)|[North Texas](#f/northtexas)|
+|Old Dominion Monarchs|\[Old Dominion](#f/olddominion)|[Old Dominion](#f/olddominion)|
+|Rice Owls|\[Rice](#f/rice)|[Rice](#f/rice)|
+|Southern Miss Golden Eagles|\[Southern Miss](#f/southernmiss)|[Southern Miss](#f/southernmiss)|
+|UAB Blazers|\[UAB](#f/uab)|[UAB](#f/uab)|
+|UTEP Miners|\[UTEP](#f/utep)|[UTEP](#f/utep)|
+|UTSA Roadrunners|\[UTSA](#f/utsa)|[UTSA](#f/utsa)|
+|Western Kentucky Hilltoppers|\[Western Kentucky](#f/westernkentucky)|[Western Kentucky](#f/westernkentucky)|
+
+## Horizon League
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Cleveland State Vikings|\[Cleveland State](#f/clevelandstate)|[Cleveland State](#f/clevelandstate)|
+|Detroit Titans|\[Detroit](#f/detroit)|[Detroit](#f/detroit)|
+|Milwaukee Panthers|\[Milwaukee](#f/milwaukee)|[Milwaukee](#f/milwaukee)|
+|Northern Kentucky Norse|\[Northern Kentucky](#f/northernkentucky)|[Northern Kentucky](#f/northernkentucky)|
+|Oakland Golden Grizzlies|\[Oakland](#f/oakland)|[Oakland](#f/oakland)|
+|UIC Flames|\[UIC](#f/uic)|[UIC](#f/uic)|
+|Green Bay Phoenix|\[Green Bay](#f/greenbay)|[Green Bay](#f/greenbay)|
+|Valparaiso Crusaders|\[Valparaiso](#f/valparaiso)|[Valparaiso](#f/valparaiso)|
+|Wright State Raiders|\[Wright State](#f/wrightstate)|[Wright State](#f/wrightstate)|
+|Youngstown State Penguins|\[Youngstown State](#f/youngstownstate)|[Youngstown State](#f/youngstownstate)|
+
+## Ivy League
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Brown Bears|\[Brown](#f/brown)|[Brown](#f/brown)|
+|Columbia Lions|\[Columbia](#f/columbia)|[Columbia](#f/columbia)|
+|Cornell Big Red|\[Cornell](#f/cornell)|[Cornell](#f/cornell)|
+|Dartmouth Big Green|\[Dartmouth](#f/dartmouth)|[Dartmouth](#f/dartmouth)|
+|Harvard Crimson|\[Harvard](#f/harvard)|[Harvard](#f/harvard)|
+|Penn Quakers|\[Penn](#f/pennsylvania)|[Penn](#f/pennsylvania)|
+|Princeton Tigers|\[Princeton](#f/princeton)|[Princeton](#f/princeton)|
+|Yale Bulldogs|\[Yale](#f/yale)|[Yale](#f/yale)|
+
+## MAAC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Canisius Golden Griffins|\[Canisius](#f/canisius)|[Canisius](#f/canisius)|
+|Fairfield Stags|\[Fairfield](#f/fairfield)|[Fairfield](#f/fairfield)|
+|Iona Gaels|\[Iona](#f/iona)|[Iona](#f/iona)|
+|Manhattan Jaspers|\[Manhattan](#f/manhattan)|[Manhattan](#f/manhattan)|
+|Marist Red Foxes|\[Marist](#f/marist)|[Marist](#f/marist)|
+|Monmouth Hawks|\[Monmouth](#f/monmouth)|[Monmouth](#f/monmouth)|
+|Niagara Purple Eagles|\[Niagara](#f/niagara)|[Niagara](#f/niagara)|
+|Quinnipiac Bobcats|\[Quinnipiac](#f/quinnipiac)|[Quinnipiac](#f/quinnipiac)|
+|Rider Broncs|\[Rider](#f/rider)|[Rider](#f/rider)|
+|St. Peter's Peacocks|\[St. Peter's](#f/stpeters)|[St. Peter's](#f/stpeters)|
+|Siena Saints|\[Siena](#f/siena)|[Siena](#f/siena)|
+
+## MAC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Akron Zips|\[Akron](#f/akron)|[Akron](#f/akron)|
+|Ball State Cardinals|\[Ball State](#f/ballstate)|[Ball State](#f/ballstate)|
+|Bowling Green Falcons|\[Bowling Green](#f/bowlinggreen)|[Bowling Green](#f/bowlinggreen)|
+|Buffalo Bulls|\[Buffalo](#f/buffalo)|[Buffalo](#f/buffalo)|
+|Central Michigan Chippewas|\[Central Michigan](#f/centralmichigan)|[Central Michigan](#f/centralmichigan)|
+|Eastern Michigan Eagles|\[Eastern Michigan](#f/easternmichigan)|[Eastern Michigan](#f/easternmichigan)|
+|Kent State Golden Flashes|\[Kent State](#f/kentstate)|[Kent State](#f/kentstate)|
+|Miami RedHawks|\[Miami](#f/miamioh)|[Miami](#f/miamioh)|
+|Northern Illinois Huskies|\[Northern Illinois](#f/northernillinois)|[Northern Illinois](#f/northernillinois)|
+|Ohio Bobcats|\[Ohio](#f/ohio)|[Ohio](#f/ohio)|
+|Toledo Rockets|\[Toledo](#f/toledo)|[Toledo](#f/toledo)|
+|Western Michigan Broncos|\[Western Michigan](#f/westernmichigan)|[Western Michigan](#f/westernmichigan)|
+
+## MEAC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Bethune-Cookman Wildcats|\[Bethune-Cookman](#f/bethunecookman)|[Bethune-Cookman](#f/bethunecookman)|
+|Coppin State Eagles|\[Coppin State](#f/coppinstate)|[Coppin State](#f/coppinstate)|
+|Delaware State Hornets|\[Delaware State](#f/delawarestate)|[Delaware State](#f/delawarestate)|
+|Florida A&M Rattlers|\[Florida A&M](#f/floridaam)|[Florida A&M](#f/floridaam)|
+|Hampton Pirates|\[Hampton](#f/hampton)|[Hampton](#f/hampton)|
+|Howard Bison|\[Howard](#f/howard)|[Howard](#f/howard)|
+|UMES Hawks|\[UMES](#f/umes)|[UMES](#f/umes)|
+|Morgan State Bears|\[Morgan State](#f/morganstate)|[Morgan State](#f/morganstate)|
+|Norfolk State Spartans|\[Norfolk State](#f/norfolkstate)|[Norfolk State](#f/norfolkstate)|
+|North Carolina A&T Aggies|\[North Carolina A&T](#f/northcarolinaat)|[North Carolina A&T](#f/northcarolinaat)|
+|NCCU Eagles|\[NCCU](#f/nccentral)|[NCCU](#f/nccentral)|
+|Savannah State Tigers|\[Savannah State](#f/savannahstate)|[Savannah State](#f/savannahstate)|
+|SC State Bulldogs|\[SC State](#f/southcarolinastate)|[SC State](#f/southcarolinastate)|
+
+## Missouri Valley
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Bradley Braves|\[Bradley](#f/bradley)|[Bradley](#f/bradley)|
+|Drake Bulldogs|\[Drake](#f/drake)|[Drake](#f/drake)|
+|Evansville Purple Aces|\[Evansville](#f/evansville)|[Evansville](#f/evansville)|
+|Illinois State Redbirds|\[Illinois State](#f/illinoisstate)|[Illinois State](#f/illinoisstate)|
+|Indiana State Sycamores|\[Indiana State](#f/indianastate)|[Indiana State](#f/indianastate)|
+|Loyola Chicago Ramblers|\[Loyola Chicago](#f/loyolachicago)|[Loyola Chicago](#f/loyolachicago)|
+|Missouri State Bears|\[Missouri State](#f/missouristate)|[Missouri State](#f/missouristate)|
+|Northern Iowa Panthers|\[Northern Iowa](#f/northerniowa)|[Northern Iowa](#f/northerniowa)|
+|Southern Illinois Salukis|\[Southern Illinois](#f/southernillinois)|[Southern Illinois](#f/southernillinois)|
+|Wichita State Shockers|\[Wichita State](#f/wichitastate)|[Wichita State](#f/wichitastate)|
+
+## Mountain West
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Air Force Falcons|\[Air Force](#f/airforce)|[Air Force](#f/airforce)|
+|Boise State Broncos|\[Boise State](#f/boisestate)|[Boise State](#f/boisestate)|
+|Colorado State Rams|\[Colorado State](#f/coloradostate)|[Colorado State](#f/coloradostate)|
+|Fresno State Bulldogs|\[Fresno State](#f/fresnostate)|[Fresno State](#f/fresnostate)|
+|Nevada Wolf Pack|\[Nevada](#f/nevada)|[Nevada](#f/nevada)|
+|New Mexico Lobos|\[New Mexico](#f/newmexico)|[New Mexico](#f/newmexico)|
+|San Diego State Aztecs|\[San Diego State](#f/sandiegostate)|[San Diego State](#f/sandiegostate)|
+|San José State Spartans|\[San José State](#f/sanjosestate)|[San José State](#f/sanjosestate)|
+|UNLV Rebels|\[UNLV](#f/unlv)|[UNLV](#f/unlv)|
+|Utah State Aggies|\[Utah State](#f/utahstate)|[Utah State](#f/utahstate)|
+|Wyoming Cowboys|\[Wyoming](#f/wyoming)|[Wyoming](#f/wyoming)|
+
+## Northeast
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Bryant Bulldogs|\[Bryant](#f/bryant)|[Bryant](#f/bryant)|
+|Central Connecticut State Blue Devils|\[Central Connecticut State](#f/centralconnecticutstate)|[Central Connecticut State](#f/centralconnecticutstate)|
+|Fairleigh Dickinson Knights|\[Fairleigh Dickinson](#f/fairleighdickinson)|[Fairleigh Dickinson](#f/fairleighdickinson)|
+|LIU Brooklyn Blackbirds|\[LIU Brooklyn](#f/longisland)|[LIU Brooklyn](#f/longisland)|
+|Mount St. Mary's Mountaineers|\[Mount St. Mary's](#f/mountstmarys)|[Mount St. Mary's](#f/mountstmarys)|
+|Robert Morris Colonials|\[Robert Morris](#f/robertmorris)|[Robert Morris](#f/robertmorris)|
+|Sacred Heart Pioneers|\[Sacred Heart](#f/sacredheart)|[Sacred Heart](#f/sacredheart)|
+|St. Francis Brooklyn Terriers|\[St. Francis Brooklyn](#f/stfrancisbrooklyn)|[St. Francis Brooklyn](#f/stfrancisbrooklyn)|
+|St. Francis PA Red Flash|\[St. Francis PA](#f/stfrancispa)|[St. Francis PA](#f/stfrancispa)|
+|Wagner Seahawks|\[Wagner](#f/wagner)|[Wagner](#f/wagner)|
+
+## Ohio Valley
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Austin Peay Governors|\[Austin Peay](#f/austinpeay)|[Austin Peay](#f/austinpeay)|
+|Belmont Bruins|\[Belmont](#f/belmont)|[Belmont](#f/belmont)|
+|Eastern Illinois Panthers|\[Eastern Illinois](#f/easternillinois)|[Eastern Illinois](#f/easternillinois)|
+|Eastern Kentucky Colonels|\[Eastern Kentucky](#f/easternkentucky)|[Eastern Kentucky](#f/easternkentucky)|
+|Jacksonville State Gamecocks|\[Jacksonville State](#f/jacksonvillestate)|[Jacksonville State](#f/jacksonvillestate)|
+|Morehead State Eagles|\[Morehead State](#f/moreheadstate)|[Morehead State](#f/moreheadstate)|
+|Murray State Racers|\[Murray State](#f/murraystate)|[Murray State](#f/murraystate)|
+|SE Missouri State Redhawks|\[SE Missouri State](#f/southeastmissouristate)|[SE Missouri State](#f/southeastmissouristate)|
+|SIU Edwardsville Cougars|\[SIU Edwardsville](#f/siue)|[SIU Edwardsville](#f/siue)|
+|UT-Martin Skyhawks|\[UT-Martin](#f/tennesseemartin)|[UT-Martin](#f/tennesseemartin)|
+|Tennessee State Tigers|\[Tennessee State](#f/tennesseestate)|[Tennessee State](#f/tennesseestate)|
+|Tennessee Tech Golden Eagles|\[Tennessee Tech](#f/tennesseetech)|[Tennessee Tech](#f/tennesseetech)|
+
+## Pac-12
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Arizona Wildcats|\[Arizona](#f/arizona)|[Arizona](#f/arizona)|
+|Arizona State Sun Devils|\[Arizona State](#f/arizonastate)|[Arizona State](#f/arizonastate)|
+|California Golden Bears|\[California](#f/california)|[California](#f/california)|
+|Colorado Buffaloes|\[Colorado](#f/colorado)|[Colorado](#f/colorado)|
+|Oregon Ducks|\[Oregon](#f/oregon)|[Oregon](#f/oregon)|
+|Oregon State Beavers|\[Oregon State](#f/oregonstate)|[Oregon State](#f/oregonstate)|
+|Stanford Cardinal|\[Stanford](#f/stanford)|[Stanford](#f/stanford)|
+|UCLA Bruins|\[UCLA](#f/ucla)|[UCLA](#f/ucla)|
+|USC Trojans|\[USC](#f/usc)|[USC](#f/usc)|
+|Utah Utes|\[Utah](#f/utah)|[Utah](#f/utah)|
+|Washington Huskies|\[Washington](#f/washington)|[Washington](#f/washington)|
+|Washington State Cougars|\[Washington State](#f/washingtonstate)|[Washington State](#f/washingtonstate)|
+
+## Patriot League
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|American Eagles|\[American](#f/american)|[American](#f/american)|
+|Army West Point Black Knights|\[Army West Point](#f/army)|[Army West Point](#f/army)|
+|Boston University Terriers|\[Boston University](#f/bostonuniversity)|[Boston University](#f/bostonuniversity)|
+|Bucknell Bison|\[Bucknell](#f/bucknell)|[Bucknell](#f/bucknell)|
+|Colgate Raiders|\[Colgate](#f/colgate)|[Colgate](#f/colgate)|
+|Holy Cross Crusaders|\[Holy Cross](#f/holycross)|[Holy Cross](#f/holycross)|
+|Lafayette Leopards|\[Lafayette](#f/lafayette)|[Lafayette](#f/lafayette)|
+|Lehigh Mountain Hawks|\[Lehigh](#f/lehigh)|[Lehigh](#f/lehigh)|
+|Loyola MD Greyhounds|\[Loyola MD](#f/loyolamaryland)|[Loyola MD](#f/loyolamaryland)|
+|Navy Midshipmen|\[Navy](#f/navy)|[Navy](#f/navy)|
+
+## SEC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Alabama Crimson Tide|\[Alabama](#f/alabama)|[Alabama](#f/alabama)|
+|Arkansas Razorbacks|\[Arkansas](#f/arkansas)|[Arkansas](#f/arkansas)|
+|Auburn Tigers|\[Auburn](#f/auburn)|[Auburn](#f/auburn)|
+|Florida Gators|\[Florida](#f/florida)|[Florida](#f/florida)|
+|Georgia Bulldogs|\[Georgia](#f/georgia)|[Georgia](#f/georgia)|
+|Kentucky Wildcats|\[Kentucky](#f/kentucky)|[Kentucky](#f/kentucky)|
+|LSU Tigers|\[LSU](#f/lsu)|[LSU](#f/lsu)|
+|Mississippi State Bulldogs|\[Mississippi State](#f/mississippistate)|[Mississippi State](#f/mississippistate)|
+|Missouri Tigers|\[Missouri](#f/missouri)|[Missouri](#f/missouri)|
+|Ole Miss Rebels|\[Ole Miss](#f/olemiss)|[Ole Miss](#f/olemiss)|
+|South Carolina Gamecocks|\[South Carolina](#f/southcarolina)|[South Carolina](#f/southcarolina)|
+|Tennessee Volunteers|\[Tennessee](#f/tennessee)|[Tennessee](#f/tennessee)|
+|Texas A&M Aggies|\[Texas A&M](#f/texasam)|[Texas A&M](#f/texasam)|
+|Vanderbilt Commodores|\[Vanderbilt](#f/vanderbilt)|[Vanderbilt](#f/vanderbilt)|
+
+## Southern
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Chattanooga Mocs|\[Chattanooga](#f/chattanooga)|[Chattanooga](#f/chattanooga)|
+|The Citadel Bulldogs|\[The Citadel](#f/citadel)|[The Citadel](#f/citadel)|
+|East Tennessee State Buccaneers|\[East Tennessee State](#f/easttennesseestate)|[East Tennessee State](#f/easttennesseestate)|
+|Furman Paladins|\[Furman](#f/furman)|[Furman](#f/furman)|
+|Mercer Bears|\[Mercer](#f/mercer)|[Mercer](#f/mercer)|
+|Samford Bulldogs|\[Samford](#f/samford)|[Samford](#f/samford)|
+|UNC Greensboro Spartans|\[UNC Greensboro](#f/uncgreensboro)|[UNC Greensboro](#f/uncgreensboro)|
+|VMI Keydets|\[VMI](#f/virginiamilitaryinstitute)|[VMI](#f/virginiamilitaryinstitute)|
+|Western Carolina Catamounts|\[Western Carolina](#f/westerncarolina)|[Western Carolina](#f/westerncarolina)|
+|Wofford Terriers|\[Wofford](#f/wofford)|[Wofford](#f/wofford)|
+
+## Southland
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Abilene Christian Wildcats|\[Abilene Christian](#f/abilenechristian)|[Abilene Christian](#f/abilenechristian)|
+|Central Arkansas Bears|\[Central Arkansas](#f/centralarkansas)|[Central Arkansas](#f/centralarkansas)|
+|Houston Baptist Huskies|\[Houston Baptist](#f/houstonbaptist)|[Houston Baptist](#f/houstonbaptist)|
+|Incarnate Word Cardinals|\[Incarnate Word](#f/incarnateword)|[Incarnate Word](#f/incarnateword)|
+|Lamar Cardinals|\[Lamar](#f/lamar)|[Lamar](#f/lamar)|
+|McNeese State Cowboys|\[McNeese State](#f/mcneesestate)|[McNeese State](#f/mcneesestate)|
+|New Orleans Privateers|\[New Orleans](#f/neworleans)|[New Orleans](#f/neworleans)|
+|Nicholls State Colonels|\[Nicholls State](#f/nichollsstate)|[Nicholls State](#f/nichollsstate)|
+|Northwestern State Demons|\[Northwestern State](#f/northwesternstate)|[Northwestern State](#f/northwesternstate)|
+|Sam Houston State Bearkats|\[Sam Houston State](#f/samhoustonstate)|[Sam Houston State](#f/samhoustonstate)|
+|SE Louisiana Lions|\[SE Louisiana](#f/southeasternlouisiana)|[SE Louisiana](#f/southeasternlouisiana)|
+|Stephen F. Austin Lumberjacks|\[Stephen F. Austin](#f/stephenfaustin)|[Stephen F. Austin](#f/stephenfaustin)|
+|Texas A&M-Corpus Christi Islanders|\[Texas A&M-Corpus Christi](#f/texasamcorpuschristi)|[Texas A&M-Corpus Christi](#f/texasamcorpuschristi)|
+
+## SWAC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Alabama A&M Bulldogs|\[Alabama A&M](#f/alabamaam)|[Alabama A&M](#f/alabamaam)|
+|Alabama State Hornets|\[Alabama State](#f/alabamastate)|[Alabama State](#f/alabamastate)|
+|Alcorn State Braves|\[Alcorn State](#f/alcornstate)|[Alcorn State](#f/alcornstate)|
+|Arkansas-Pine Bluff Golden Lions|\[Arkansas-Pine Bluf](#f/arkansaspinebluff)|[Arkansas-Pine Bluf](#f/arkansaspinebluff)|
+|Grambling State Tigers|\[Grambling State](#f/gramblingstate)|[Grambling State](#f/gramblingstate)|
+|Jackson State Tigers|\[Jackson State](#f/jacksonstate)|[Jackson State](#f/jacksonstate)|
+|Mississippi Valley State Delta Devils|\[Mississippi Valley State](#f/mississippivalleystate)|[Mississippi Valley State](#f/mississippivalleystate)|
+|Prairie View A&M Panthers|\[Prairie View A&M](#f/prairieviewam)|[Prairie View A&M](#f/prairieviewam)|
+|Southern Jaguars|\[Southern](#f/southern)|[Southern](#f/southern)|
+|Texas Southern Tigers|\[Texas Southern](#f/texassouthern)|[Texas Southern](#f/texassouthern)|
+
+## The Summit
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Denver Pioneers|\[Denver](#f/denver)|[Denver](#f/denver)|
+|IPFW Mastadons|\[IPFW](#f/ipfw)|[IPFW](#f/ipfw)|
+|IUPUI Jaguars|\[IUPUI](#f/iupui)|[IUPUI](#f/iupui)|
+|North Dakota State Bison|\[North Dakota State](#f/northdakotastate)|[North Dakota State](#f/northdakotastate)|
+|Omaha Mavericks|\[Omaha](#f/omaha)|[Omaha](#f/omaha)|
+|Oral Roberts Golden Eagles|\[Oral Roberts](#f/oralroberts)|[Oral Roberts](#f/oralroberts)|
+|South Dakota Coyotes|\[South Dakota](#f/southdakota)|[South Dakota](#f/southdakota)|
+|South Dakota State Jackrabbits|\[South Dakota State](#f/southdakotastate)|[South Dakota State](#f/southdakotastate)|
+|Western Illinois Leathernecks|\[Western Illinois](#f/westernillinois)|[Western Illinois](#f/westernillinois)|
+
+## Sun Belt
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Appalachian State Mountaineers|\[Appalachian State](#f/appalachianstate)|[Appalachian State](#f/appalachianstate)|
+|Little Rock Trojans|\[Little Rock](#f/littlerock)|[Little Rock](#f/littlerock)|
+|Arkansas State Red Wolves|\[Arkansas State](#f/arkansasstate)|[Arkansas State](#f/arkansasstate)|
+|Georgia Southern Eagles|\[Georgia Southern](#f/georgiasouthern)|[Georgia Southern](#f/georgiasouthern)|
+|Georgia State Panthers|\[Georgia State](#f/georgiastate)|[Georgia State](#f/georgiastate)|
+|Louisiana-Lafayette Ragin' Cajuns|\[Louisiana-Lafayette](#f/louisianalafayette)|[Louisiana-Lafayette](#f/louisianalafayette)|
+|Louisiana-Monroe Warhawks|\[Louisiana-Monroe](#f/louisianamonroe)|[Louisiana-Monroe](#f/louisianamonroe)|
+|UT-Arlington Mavericks|\[UT-Arlington](#f/utarlington)|[UT-Arlington](#f/utarlington)|
+|South Alabama Jaguars|\[South Alabama](#f/southalabama)|[South Alabama](#f/southalabama)|
+|Texas State Bobcats|\[Texas State](#f/texasstate)|[Texas State](#f/texasstate)|
+|Troy Trojans|\[Troy](#f/troy)|[Troy](#f/troy)|
+
+## West Coast
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|BYU Cougars|\[BYU](#f/byu)|[BYU](#f/byu)|
+|Gonzaga Bulldogs|\[Gonzaga](#f/gonzaga)|[Gonzaga](#f/gonzaga)|
+|Loyola Marymount Lions|\[Loyola Marymount](#f/loyolamarymount)|[Loyola Marymount](#f/loyolamarymount)|
+|Pacific Tigers|\[Pacific](#f/pacific)|[Pacific](#f/pacific)|
+|Pepperdine Waves|\[Pepperdine](#f/pepperdine)|[Pepperdine](#f/pepperdine)|
+|Portland Pilots|\[Portland](#f/portland)|[Portland](#f/portland)|
+|St. Mary's Gaels|\[St. Mary's](#f/stmarys)|[St. Mary's](#f/stmarys)|
+|San Diego Toreros|\[San Diego](#f/sandiego)|[San Diego](#f/sandiego)|
+|San Francisco Dons|\[San Francisco](#f/sanfrancisco)|[San Francisco](#f/sanfrancisco)|
+|Santa Clara Broncos|\[Santa Clara](#f/santaclara)|[Santa Clara](#f/santaclara)|
+
+## WAC
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|Cal State Bakersfield Roadrunners|\[Cal State Bakersfield](#f/csub)|[Cal State Bakersfield](#f/csub)|
+|Chicago State Cougars|\[Chicago State](#f/chicagostate)|[Chicago State](#f/chicagostate)|
+|Grand Canyon Antelopes|\[Grand Canyon](#f/grandcanyon)|[Grand Canyon](#f/grandcanyon)|
+|UMKC Kangaroos|\[UMKC](#f/umkc)|[UMKC](#f/umkc)|
+|New Mexico State Aggies|\[New Mexico State](#f/newmexicostate)|[New Mexico State](#f/newmexicostate)|
+|Seattle Redhawks|\[Seattle](#f/seattle)|[Seattle](#f/seattle)|
+|Utah Valley Wolverines|\[Utah Valley](#f/utahvalley)|[Utah Valley](#f/utahvalley)|
+|Texas-Rio Grande Valley Vaqueros|\[Texas-Rio Grande Valley](#f/texasriograndevalley)|[Texas-Rio Grande Valley](#f/texasriograndevalley)|
+### Logos
+
+## Conferences
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|NCAA|\[NCAA](#l/ncaa)|[NCAA](#l/ncaa)|
+|America East|\[America East](#l/americaeast)|[America East](#l/americaeast)|
+|American|\[American](#l/aac)|[American](#l/aac)|
+|ACC|\[ACC](#l/acc)|[ACC](#l/acc)|
+|Atlantic Sun|\[Atlantic Sun](#l/asun)|[Atlantic Sun](#l/asun)|
+|A-10|\[A-10](#l/atlantic10)|[A-10](#l/atlantic10)|
+|Big East|\[Big East](#l/bigeast)|[Big East](#l/bigeast)|
+|Big Sky|\[Big Sky](#l/bigsky)|[Big Sky](#l/bigsky)|
+|Big South|\[Big South](#l/bigsouth)|[Big South](#l/bigsouth)|
+|Big Ten|\[Big Ten](#l/bigten)|[Big Ten](#l/bigten)|
+|Big 12|\[Big 12](#l/big12)|[Big 12](#l/big12)|
+|Big West|\[Big West](#l/bigwest)|[Big West](#l/bigwest)|
+|CAA|\[CAA](#l/caa)|[CAA](#l/caa)|
+|Conference USA|\[C-USA](#l/cusa)|[C-USA](#l/cusa)|
+|Horizon League|\[Horizon](#l/horizon)|[Horizon](#l/horizon)|
+|Ivy League|\[Ivy League](#l/ivy)|[Ivy League](#l/ivy)|
+|MAAC|\[MAAC](#l/maac)|[MAAC](#l/maac)|
+
+## Conferences2
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|MAC|\[MAC](#l/mac)|[MAC](#l/mac)|
+|MEAC|\[MEAC](#l/meac)|[MEAC](#l/meac)|
+|Missouri Valley|\[Missouri Valley](#l/mvc)|[Missouri Valley](#l/mvc)|
+|Mountain West|\[Mountain West](#l/mwc)|[Mountain West](#l/mwc)|
+|Northeast|\[Northeast](#l/northeast)|[Northeast](#l/northeast)|
+|Ohio Valley|\[Ohio Valley](#l/ovc)|[Ohio Valley](#l/ovc)|
+|Pac-12|\[Pac-12](#l/pac12)|[Pac-12](#l/pac12)|
+|Patriot|\[Patriot](#l/patriot)|[Patriot](#l/patriot)|
+|SEC|\[SEC](#l/sec)|[SEC](#l/sec)|
+|Southern|\[Southern](#l/socon)|[Southern](#l/socon)|
+|Southland|\[Southland](#l/southland)|[Southland](#l/southland)|
+|SWAC|\[SWAC](#l/swac)|[SWAC](#l/swac)|
+|The Summit|\[The Summit](#l/summit)|[The Summit](#l/summit)|
+|Sun Belt|\[Sun Belt](#l/sunbelt)|[Sun Belt](#l/sunbelt)|
+|West Coast|\[West Coast](#l/wcc)|[West Coast](#l/wcc)|
+|WAC|\[WAC](#l/wac)|[WAC](#l/wac)|
+
+## Media
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|ABC|\[ABC](#l/abc)|[ABC](#l/abc)|
+|ACC Network|\[ACCN](#l/accn)|[ACCN](#l/accn)|
+|Big Ten Network|\[BTN](#l/btn)|[BTN](#l/btn)|
+|CBS|\[CBS](#l/cbs)|[CBS](#l/cbs)|
+|CBS Sports Network|\[CBSSN](#l/cbssn)|[CBSSN](#l/cbssn)|
+|ESPN|\[ESPN](#l/espn)|[ESPN](#l/espn)|
+|ESPN2|\[ESPN2](#l/espn2)|[ESPN2](#l/espn2)|
+|ESPNU|\[ESPNU](#l/espnu)|[ESPNU](#l/espnu)|
+|FOX|\[FOX](#l/fox)|[FOX](#l/fox)|
+|Fox Sports 1|\[FS1](#l/fs1)|[FS1](#l/fs1)|
+|Fox Sports Network|\[FSN](#l/fsn)|[FSN](#l/fsn)|
+|Longhorn Network|\[Longhorn Network](#l/lhn)|[Longhorn Network](#l/lhn)|
+|NBC|\[NBC](#l/nbc)|[NBC](#l/nbc)|
+|NBC Sports Network|\[NBCSN](#l/nbcsn)|[NBCSN](#l/nbcsn)|
+|Pac-12 Network|\[Pac-12 Network](#l/p12n)|[Pac-12 Network](#l/p12n)|
+|SEC Network|\[SECN](#l/secn)|[SECN](#l/secn)|
+
+## Other Media
+
+|Name|Code|Result|
+|:--|:--|:-:|
+|AP|\[AP](#l/ap)|[AP](#l/ap)|
+|BYUtv|\[BYUtv](#l/byutv)|[BYUtv](#l/byutv)|
+|ESPN Classic|\[ESPN Classic](#l/espnclassic)|[ESPN Classic](#l/espnclassic)|
+|ESPN College Extra|\[ESPN College Extra](#l/espng)|[ESPN College Extra](#l/espng)|
+|ESPN3|\[ESPN3](#l/espn3)|[ESPN3](#l/espn3)|
+|ESPNews|\[ESPNews](#l/espnews)|[ESPNews](#l/espnews)|
+|Sports Illustrated|\[SI](#l/si)|[SI](#l/si)|
+|Watch ESPN|\[Watch ESPN](#l/wespn)|[Watch ESPN](#l/wespn)|
+|Yahoo Sports|\[Yahoo Sports](#l/yahoo)|[Yahoo Sports](#l/yahoo)|
+|2016 Final Four|\[2016 Final Four](#l/2016finalfour)|[2016 Final Four](#l/2016finalfour)|
+|March Madness|\[March Madness](#l/marchmadness)|[March Madness](#l/marchmadness)|
+|College Gameday|\[College Gameday](#l/collegegameday)|[College Gameday](#l/collegegameday)|
+
+
+*Created by /u/bakonydraco, available at /r/flairguide/wiki. Implemented on /r/cbbprivateflairtest by /u/ztrobin5.*

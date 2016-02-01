@@ -1,0 +1,24 @@
+Inline flair allows you to display images like [](#l/rcbbprivateflairtest) in a line or in a table.
+
+The format for doing so is \[/r/cbbprivateflairtest](#l/rcbbprivateflairtest), where you replace "rcbbprivateflairtest" with the desired tag.  We use the '#l/' prefix so that:
+
+* We can modify all flairs at once, which preserves significant space in our stylesheet which is limited by Reddit
+* Clicking on inline flair no longer takes you to a blank page, but keeps you on the current page.  The flair still are not links, but this is preferable to a link to nowhere.
+
+The prefixes are as follows:
+
+* #f for team flair
+* #i for images
+* #l for other logos, including conferences, networks, playoffs, and bowls
+
+Writing the team name in brackets helps out our mobile users on apps that can't see the images, so that they can at least see a label for the image you are talking about.
+
+Additionally, if you want to hide text from being shown unless a user hovers over it, use the spoiler tag like this:
+
+* \[Hidden information](#s/spoiler), which appears as [Hidden information](#s/spoiler)
+
+D1 teams each have intuitive shorcuts.  Due to space constraints from Reddit, all teams can be listed in line, but the codes for non-D1 teams are a bit more complicated.  
+
+A complete list of flair codes is below.
+
+
